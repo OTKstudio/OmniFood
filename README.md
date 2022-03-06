@@ -1,2 +1,2 @@
-# OmniFood-Html-Css
-Dans ce projet nous avons cree un Site de restauration a l'aide du langage Html et Css.
+# OmniFood
+Dans ce projet j'ai cree un site de restauration en utilisant comme langage (Html, css, js)..
